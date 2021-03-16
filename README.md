@@ -10,7 +10,7 @@ To keep this exercise as simple as possible, only one ESG report is being used. 
 Given that ESG is a broad topic.  Different companies focus on different aspects of ESG depending on their business operations and culture.  One can potentially ingest more ESG reports from different companies across all sectors and industries to capture relevant ESG topics.  This to be attempted in another analysis.
 
 ## Notebook
-1. 
+1. https://github.com/edgetrader/esg-nlp/blob/master/notebook/esg-report-analysis.ipynb
 
 ## Reference
 
